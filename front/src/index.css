@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Paper-Regular';
+  src: url('./font/Paperlogy-4Regular.ttf');
+}
+@font-face {
+  font-family: 'Paper-light';
+  src: url('./font/Paperlogy-3Light.ttf');
+}
+@font-face {
+  font-family: 'Paper-semiBold';
+  src: url('./font/Paperlogy-6SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Paper-Medium';
+  src: url('./font/Paperlogy-5Medium.ttf');
+}
+@font-face {
+  font-family: 'DungGeunMo';
+  src: url('./font/DungGeunMo.ttf');
+}
+@font-face {
+  font-family: 'santoki';
+  src: url('./font/HSSantokki-Regular.ttf');
+}
+@font-face {
+  font-family: 'kmoduBold';
+  src: url('./font/강원교육모두Bold.ttf');
+}
+@font-face {
+  font-family: 'kmodulight';
+  src: url('./font/강원교육모두Light.ttf');
+}
+@font-face {
+  font-family: 'kmodusaum';
+  src: url('./font/강원교육새음.ttf');
+}
+@font-face {
+  font-family: 'kmoduhun';
+  src: url('./font/강원교육현옥샘.ttf');
+}
+@font-face {
+  font-family: 'gf';
+  src: url('./font/NotoSansKR-VariableFont_wght.ttf');
+}
